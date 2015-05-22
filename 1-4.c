@@ -16,3 +16,4 @@ main(void)
 		err_sys("read error");
 
 	exit(0);
+}
